@@ -15,7 +15,7 @@ gem "simple_form", ">= 5.0.0"
 gem 'uglifier'
 gem 'webpacker'
 gem 'devise'
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 gem 'cloudinary', '~> 1.9.1'
 gem 'rails-i18n'
 gem "omniauth-facebook"
